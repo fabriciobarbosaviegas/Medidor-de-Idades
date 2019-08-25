@@ -1,0 +1,26 @@
+		body{
+			font-family: calibri;
+			font-size: 23px;
+			color: black;
+			text-align: center;
+		}
+		input{
+			border-radius: 5px 5px 5px 5px;
+			font-family: calibri;
+			font-size: 15px;
+		}
+		.container{
+			margin-left: 25%;
+			background-color:white; 
+			width: 400px; 
+			height: 550px; 
+			border-radius:10px 10px 10px 10px;
+		}
+		.img{
+			 border-radius:50%;
+			 display: inline-block;
+			 height: 125px;
+  			 width: 125px;
+  			 border-color: black;
+  			 margin-top: 10px;
+		}
